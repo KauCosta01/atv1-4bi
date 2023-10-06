@@ -1,0 +1,36 @@
+.craque_neto {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid red;
+}
+
+.olha_so {
+    width: 250px;
+    height: 120px;
+    margin: 10px;
+    padding: 15px;
+    border: 2px solid blue;
+}
+
+.cris {
+    width: 180px;
+    height: 90px;
+    margin: 10px;
+    padding: 25px;
+    border: 2px solid green;
+}
+
+.rato {
+    width: 220px;
+    height: 110px;
+    margin: 10px;
+    padding: 30px;
+    border: 2px solid orange;
+}
+
+.craque_neto,
+.olha_so {
+    margin: 0 auto;
+}
